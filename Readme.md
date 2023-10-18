@@ -242,7 +242,7 @@
 - [x] [156.Binary-Tree-Upside-Down](https://github.com/wisdompeak/LeetCode/blob/master/Tree/156.Binary-Tree-Upside-Down) (H)   
 - [x] [285.Inorder-Successor-in-BST](https://github.com/wisdompeak/LeetCode/blob/master/Tree/285.Inorder-Successor-in-BST) (M)    
 - [x] [298.Binary-Tree-Longest-Consecutive Sequence](https://github.com/wisdompeak/LeetCode/tree/master/Tree/298.Binary-Tree-Longest-Consecutive-Sequence) (M+)    
-[450.Delete-Node-in-a-BST](https://github.com/wisdompeak/LeetCode/tree/master/Tree/450.Delete-Node-in-a-BST) (H)    
+- [x] [450.Delete-Node-in-a-BST](https://github.com/wisdompeak/LeetCode/tree/master/Tree/450.Delete-Node-in-a-BST) (H)    
 [437.Path-Sum-III](https://github.com/wisdompeak/LeetCode/tree/master/Tree/437.Path-Sum-III) (H-)   
 [333.Largest-BST-Subtree](https://github.com/wisdompeak/LeetCode/blob/master/Tree/333.Largest-BST-Subtree) (H)    
 [572.Subtree-of-Another-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree/572.Subtree-of-Another-Tree) (M)   
