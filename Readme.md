@@ -370,10 +370,10 @@
 - [x] [536.Construct-Binary-Tree-from-String](https://github.com/wisdompeak/LeetCode/tree/master/Stack/536.Construct-Binary-Tree-from-String) (M)   
 - [x] [456.132-Pattern](https://github.com/wisdompeak/LeetCode/tree/master/Stack/456.132-Pattern) (H-)    
 - [x] [636.Exclusive-Time-of-Functions](https://github.com/wisdompeak/LeetCode/tree/master/Stack/636.Exclusive-Time-of-Functions) (H-)    
-[856.Score-of-Parentheses](https://github.com/wisdompeak/LeetCode/tree/master/Stack/856.Score-of-Parentheses) (M+)    
-[946.Validate-Stack-Sequences](https://github.com/wisdompeak/LeetCode/tree/master/Stack/946.Validate-Stack-Sequences)（H-）   
-[1190.Reverse-Substrings-Between-Each-Pair-of-Parentheses](https://github.com/wisdompeak/LeetCode/tree/master/Stack/1190.Reverse-Substrings-Between-Each-Pair-of-Parentheses) (H-)  
-[1209.Remove-All-Adjacent-Duplicates-in-String-II](https://github.com/wisdompeak/LeetCode/tree/master/Stack/1209.Remove-All-Adjacent-Duplicates-in-String-II) (M+)   
+- [x] [856.Score-of-Parentheses](https://github.com/wisdompeak/LeetCode/tree/master/Stack/856.Score-of-Parentheses) (M+)    
+- [x] [946.Validate-Stack-Sequences](https://github.com/wisdompeak/LeetCode/tree/master/Stack/946.Validate-Stack-Sequences)（H-）   
+- [x] [1190.Reverse-Substrings-Between-Each-Pair-of-Parentheses](https://github.com/wisdompeak/LeetCode/tree/master/Stack/1190.Reverse-Substrings-Between-Each-Pair-of-Parentheses) (H-)  
+- [x] [1209.Remove-All-Adjacent-Duplicates-in-String-II](https://github.com/wisdompeak/LeetCode/tree/master/Stack/1209.Remove-All-Adjacent-Duplicates-in-String-II) (M+)   
 [1586.Binary-Search-Tree-Iterator-II](https://github.com/wisdompeak/LeetCode/tree/master/Stack/1586.Binary-Search-Tree-Iterator-II) (H)  
 [2197.Replace-Non-Coprime-Numbers-in-Array](https://github.com/wisdompeak/LeetCode/tree/master/Stack/2197.Replace-Non-Coprime-Numbers-in-Array) (H-)     
 [2296.Design-a-Text-Editor](https://github.com/wisdompeak/LeetCode/tree/master/Design/2296.Design-a-Text-Editor) (M+)      
