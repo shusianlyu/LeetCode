@@ -382,9 +382,9 @@
 * ``monotonic stack: next greater / smaller``    
 - [x] [042.Trapping-Rain-Water](https://github.com/wisdompeak/LeetCode/tree/master/Others/042.Trapping-Rain-Water) (H)  
 - [x] [255.Verify-Preorder-Sequence-in-Binary-Search-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree/255.Verify-Preorder-Sequence-in-Binary-Search-Tree) (H)    
-[496.Next-Greater-Element-I](https://github.com/wisdompeak/LeetCode/tree/master/Stack/496.Next-Greater-Element-I) (H-)    
+- [x] [496.Next-Greater-Element-I](https://github.com/wisdompeak/LeetCode/tree/master/Stack/496.Next-Greater-Element-I) (H-)    
 - [x] [503.Next-Greater-Element-II](https://github.com/wisdompeak/LeetCode/blob/master/Stack/503.Next-Greater-Element-II) (H-)    
-[654.Maximum-Binary-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Stack/654.Maximum-Binary-Tree) (H)      
+- [x] [654.Maximum-Binary-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Stack/654.Maximum-Binary-Tree) (H)      
 [739.Daily-Temperatures](https://github.com/wisdompeak/LeetCode/tree/master/Stack/739.Daily-Temperatures)  (H-)    
 [768.Max-Chunks-To-Make-Sorted-II](https://github.com/wisdompeak/LeetCode/tree/master/Stack/768.Max-Chunks-To-Make-Sorted-II) (H-)   
 [901.Online-Stock-Span](https://github.com/wisdompeak/LeetCode/tree/master/Stack/901.Online-Stock-Span) (H-)   
